@@ -1,3 +1,4 @@
-#CALCULADORA EM VERILOG
+#Resolução de equações - verilog
 
-<P>Calculadora desenvolvida em verilog</P>
+<P>Aplicação de conceitos como: maquina de estados, registradores, multiplexadores, ULA, displays e outros</P>
+<p>Simulação por Testbench e aplicação FPGA DE10-Lite Altera</p>
